@@ -2,3 +2,7 @@ config.yaml
 
 # remove any file ending with .env file from all the folders
 *.env
+.idea
+.vscode
+build
+bin
