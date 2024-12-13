@@ -1,2 +1,4 @@
 config.yaml
-*/**/*.env
+
+# remove any file ending with .env file from all the folders
+*.env
